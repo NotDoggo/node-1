@@ -5,12 +5,13 @@
 body {background-color: rgb(231, 155, 125);}
 h1   {color: rgb(70, 70, 70);}
 p    {color: rgb(0, 0, 0);}
+* {font-family: arial;}
 </style>
 </head>
 <body>
-    
+
 <center>
-   
+
         <h1>Ember Gaming<h1>
             <img src="https://i.ibb.co/30B7M38/logo.png" height="150" width="150" alt="text to show if image is not loadable">
 
